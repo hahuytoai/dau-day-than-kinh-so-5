@@ -1,0 +1,32 @@
+
+https://github.com/
+hahuytoai
+123chiepchiep1qQ@
+hahuytoai@gmail.com
+
+
+polypdaitrang@gmail.com
+dauruot1qQ
+
+
+https://readthedocs.org/accounts/signup/
+chungchung1qQ 
+https://github.com/polypdaitrang/polyp-dai-trang.git
+
+https://github.com/polypdaitrang/polyp-dai-trang/upload
+
+git init
+git add .
+git commit -m "first commit"
+
+git config --global user.email "polypdaitrang@gmail.com"
+
+git config --global user.name "polypdaitrang"
+
+git remote add origin https://github.com/polypdaitrang/polyp-dai-trang.git
+
+git push -u origin master
+
+bat ta lam
+git config --global user.email "you@example.com"
+  git config --global user.name "Your Name"
